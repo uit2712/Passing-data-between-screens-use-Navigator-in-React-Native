@@ -1,6 +1,6 @@
 # Passing data between screens use Navigator in React Native
 
-Link youtube video: https://www.youtube.com/edit?o=U&video_id=lDR0P_5Gs0k
+Link youtube video: https://www.youtube.com/watch?v=lDR0P_5Gs0k
 
 **************STEPS**************
 - Step 1: Add data where I change screen, I will add data in navigate in 'onPress' event
